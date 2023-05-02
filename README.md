@@ -40,8 +40,6 @@ Java libraries, and other tools required for Java programming.
 *it is used to create, compile, and debug Java applications.
 
 
-#5. what is the role of class loader?
-class loader is a component of JVM,it is responsible for loading java classes into jvm during runtime.
 ---------------------------------------------------------------------------------------------------------
 Part 2 - Wrapper Classes
 
